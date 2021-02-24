@@ -10,6 +10,3 @@ An installation Guide will be added soon.
 
 # Demo (Currently not avaible)
 A Demo can be vieded here: https://timowebdemo.joshizockt.de (Currently not avaible)
-
-# ToDo
-View https://trello.com/b/bJwPinu7/timoweb
